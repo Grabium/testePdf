@@ -3,7 +3,7 @@
         'name' => 'gabriel/teste-pdf',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'c3ec799600edcd3539807eabbf7e2da844cd0a57',
+        'reference' => '9ff9f8e5fe4d3063131043def4270db9df75c12d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'gabriel/teste-pdf' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'c3ec799600edcd3539807eabbf7e2da844cd0a57',
+            'reference' => '9ff9f8e5fe4d3063131043def4270db9df75c12d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
