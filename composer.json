@@ -1,0 +1,15 @@
+{
+    "name": "gabriel/teste-pdf",
+    "autoload": {
+        "psr-4": {
+            "Gabriel\\TestePdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel",
+            "email": "110872805+Grabium@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
